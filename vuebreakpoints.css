@@ -1,0 +1,31 @@
+// based on https://vuetifyjs.com/en/framework/breakpoints
+
+@media only screen and (max-width: 600px) {
+  .tester{
+    background-color:green !important;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .tester{
+    background-color:yellow !important;
+  }
+}
+
+@media only screen and (min-width: 960px) {
+  .tester{
+    background-color:orange !important;
+  }
+}
+
+@media only screen and (min-width: 1264px) {
+  .tester{
+    background-color:red !important;
+  }
+}
+
+@media only screen and (min-width: 1904px) {
+  .tester{
+    background-color:orchid !important;
+  }
+}
