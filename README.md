@@ -15,7 +15,7 @@ Application programming interface related tools
 ### [getpostman.com](https://www.getpostman.com/)
 [getpostman.com](https://www.getpostman.com/) - an API development environment which simplifies API development.
 
-## [Node Packet Manager](https://www.npmjs.com/)
+## NPM
 [Node Packet Manager](https://www.npmjs.com/) related tools
 
 ### [bundlephobia.com](https://bundlephobia.com/)
