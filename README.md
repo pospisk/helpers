@@ -1,7 +1,7 @@
-# helpers & web dev tools
-collection of files to increase rapid development
-<br>
+# web dev tools & helpers
 curated list web development tools
+<br>
+collection of files to increase rapid development
 
 ## Tools
 The following list is not sponsored, it is a list of tools which I have tried out since the beginning of my education and this list might help boost your workflow and learning process.
