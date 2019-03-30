@@ -15,6 +15,11 @@ Application programming interface related tools
 ### [getpostman.com](https://www.getpostman.com/)
 [getpostman.com](https://www.getpostman.com/) - an API development environment which simplifies API development.
 
+## DATABASE
+
+### [Mockaroo](https://mockaroo.com/)
+[Mockaroo](https://mockaroo.com/) - create random data for backend mockups and tests.
+
 ## NPM
 [Node Packet Manager](https://www.npmjs.com/) related tools
 
